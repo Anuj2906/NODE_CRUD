@@ -5,5 +5,7 @@ It is a node CRUD application with express and mongodb.
 ```
 npm install
 ```
+then
+```
 npm start
 ```
